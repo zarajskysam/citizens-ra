@@ -1,6 +1,6 @@
 # citizens-ra
 
-Back-часть приложения представлена по адресу https://github.com/zarajskysam/citizens-ra
+Back-часть приложения представлена по адресу https://github.com/zarajskysam/citizens-ra-server
 
 1.Склонируйте данный репозиторий 
 2.Запустите в консоли установку зависимостей 
